@@ -21,7 +21,7 @@ The deployed application requires no installation. Developers working with this 
 
 Potential employers can view my portfolio, including a recent highlighted project, with links to the source code and deployed applications. Employers can contact me directly, view my resume, and review my skills on this single page application.
 
-![A demonstration of the README Generator using sample inputs](/public/assets/images/DeployedScreenshot.png)
+![DEMO](/public/images/demo.gif)
 
 ## Contributing
 
