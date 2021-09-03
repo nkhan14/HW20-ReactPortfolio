@@ -78,18 +78,28 @@ let resumeData = {
     "portfolio":[
       {
         "name":"Project 1",
+        "url":"https://alapsraval.github.io/covid-catcher/",
         "description":"Covid Catcher",
         "imgurl":"/images/portfolio/coronavirus-2.jpg"
+        
       },
       {
         "name":"Project 2",
+        "url":"https://m-t-g-a.herokuapp.com/",
         "description":"Make Trivia Great Again",
         "imgurl":"/images/portfolio/trivia-logo.png"
       },
       {
         "name":"Project 3",
+        "url":"https://mern-your-books.herokuapp.com/",
         "description":"MERN Your Books",  
         "imgurl":"/images/portfolio/book-homepage-image.jpg"
+      },
+      {
+        "name":"Rock Paper Scissors",
+        "url":"https://github.com/nkhan14/RPS",
+        "description":"Rock Paper Scissors GitHub",  
+        "imgurl":"/images/portfolio/rps.jpg"
       }
     ],
     "testimonials":[
